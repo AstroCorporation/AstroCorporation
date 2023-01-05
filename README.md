@@ -3,8 +3,8 @@ Who am i?
 </h1>
 
 ```           
-🖖My name is "Ervin" 
-👨‍💻14 years old programmer (Web dev)(front-end developer)
+🖖🏼My name is "Ervin" 
+👨🏻‍💻14 years old programmer (Web dev)(front-end developer)
 ✅i start my way at 2021
 ❌Antisocial (E-Mail: ervinbusinessghoreishi@gmail.com)
 ```
@@ -26,7 +26,7 @@ Meet my own AI, <a href="https://github.com/ErvinGh88/AI-Emi"> Emi </a>
 🗣Name: Emi
 👩🏻Gender: Female
 🧠IQ: 100/100
-👨‍💻Coded by: C++ (Code::blocks speceficts AI)
+👨🏻‍💻Coded by: C++ (Code::blocks speceficts AI)
 📌Status: Project Kickoff
 👥By: @ErvinGh88
 ```
