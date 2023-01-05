@@ -8,9 +8,9 @@ Who am i?
 ✅i start my way at 2021
 ❌Antisocial (E-Mail: ervinbusinessghoreishi@gmail.com)
 ```
-<h1 align="center">
+<h2 align="center">
 My langs: 
-</h1>
+</h2>
 
 ```
 1️⃣1. C++
@@ -30,9 +30,9 @@ Meet my own AI, <a href="https://github.com/ErvinGh88/AI-Emi"> Emi </a>
 📌Status: Project Kickoff
 👥By: @ErvinGh88
 ```
-<h1 align="center">
+<h2 align="center">
 Owr Discord
-</h1>
+</h2>
 
 ```
 🆔Myself: Ervin#8888
