@@ -19,15 +19,6 @@ My langs:
 ```
 
 <h2 align="center">
-Works & Business
-</h2>
-
-```
-🔷Currently i'am working on my own AI(Artificial-intiligence) entitled: "Emi"
-👀But i really enjoy to desine my own Website That is my secend step
-💬for connecting to me :"ervinbusinessghoreishi@gmail.com"
-```
-<h2 align="center">
 Meet my own AI, <a href="https://github.com/ErvinGh88/AI-Emi"> Emi </a>
 </h2>
 
