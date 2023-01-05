@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
 Who am i?
-</h2>
+</h1>
 
 ```           
 🖖My name is "Ervin" 
@@ -8,9 +8,9 @@ Who am i?
 ✅i start my way at 2021
 ❌Antisocial (E-Mail: ervinbusinessghoreishi@gmail.com)
 ```
-<h2 align="center">
+<h1 align="center">
 My langs: 
-</h2>
+</h1>
 
 ```
 1️⃣1. C++
@@ -18,9 +18,9 @@ My langs:
 3️⃣3. JavaScript
 ```
 
-<h2 align="center">
+<h1 align="center">
 Meet my own AI, <a href="https://github.com/ErvinGh88/AI-Emi"> Emi </a>
-</h2>
+</h1>
 
 ```
 🗣Name: Emi
@@ -30,9 +30,9 @@ Meet my own AI, <a href="https://github.com/ErvinGh88/AI-Emi"> Emi </a>
 📌Status: Project Kickoff
 👥By: @ErvinGh88
 ```
-<h2 align="center">
+<h1 align="center">
 Owr Discord
-</h2>
+</h1>
 
 ```
 🆔Myself: Ervin#8888
