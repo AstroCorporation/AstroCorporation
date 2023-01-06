@@ -19,7 +19,7 @@ My langs:
 ```
 
 <h1 align="center">
-Meet my own AI, <a href="https://github.com/ErvinGh88/AI-Emi"> Emi </a>
+Meet my own AI, <a title="Emi's repository" href="https://github.com/ErvinGh88/AI-Emi"> Emi </a>
 </h1>
 
 ```
@@ -31,7 +31,7 @@ Meet my own AI, <a href="https://github.com/ErvinGh88/AI-Emi"> Emi </a>
 👥By: @ErvinGh88
 ```
 <h2 align="center">
-Owr Discord
+  Owr <a title="DarkPlanet" href="https://discord.gg/ajr4J9ZqET">Discord</a>
 </h2>
 
 ```
