@@ -31,7 +31,7 @@ Meet my own AI, <a title="Emi's repository" href="https://github.com/ErvinGh88/A
 👥By: @ErvinGh88
 ```
 <h2 align="center">
-  Owr <a title="DarkPlanet" href="https://discord.gg/ajr4J9ZqET">Discord</a>
+  Owr <a title="Dark Planet" href="https://discord.gg/ajr4J9ZqET">Discord</a>
 </h2>
 
 ```
