@@ -4,7 +4,7 @@ Who am i?
 <pre align='center'>
 <h3>
 🖖🏼My name is "Ervin"🖖🏼
-👨🏻‍💻14 years old programmer (Web dev)(front-end developer)👨🏻‍💻
+👨🏻‍💻15 years old programmer (Web dev)(front-end developer)👨🏻‍💻
 💻Code::Blocks User💻
 ✅i start my way at 2021✅
 ❌Antisocial (E-Mail: ervinbusinessghoreishi@gmail.com)❌
@@ -30,9 +30,9 @@ Meet my own AI, <a title="Emi's repository" href="https://github.com/ErvinGh88/A
 <h3>
 🗣Name: Emi🗣
 👩🏻Gender: Female👩🏻
-🧠IQ: 100/100🧠
-👨🏻‍💻Coded by: C++ (Code::blocks speceficts AI)👨🏻‍💻
-📌Status: Project Kickoff📌
+🧠IQ: 60/100🧠
+👨🏻‍💻Coded by: C++ (Code::blocks specefict AI)👨🏻‍💻
+📌Status: Project Running📌
 👥By: @ErvinGh88👥
 </h3>
 </pre>
