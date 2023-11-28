@@ -43,7 +43,7 @@ Meet my own AI, <a title="Emi's repository" href="https://github.com/ErvinGh88/A
 
 <pre align='center'>
 <h3>
-🆔Myself: fullydifferent 🆔
+🆔Myself: fullydifferent🆔
 🆔Emi(Support): AI-Emi#1301🆔
 🆔Emi(Bot): AI-Emi#2990🆔
 </h3>
