@@ -31,7 +31,7 @@ Meet my own AI, <a title="Emi's repository" href="https://github.com/ErvinGh88/A
 <h3>
 🗣Name: Emi🗣
 👩🏻Gender: Female👩🏻
-🔋2% Prepared🔋
+🔋10% Prepared🔋
 👨🏻‍💻Coded by: C++ (Code::blocks specefict AI)👨🏻‍💻
 📌Status: Project Running📌
 👥By: @ErvinGh88👥
@@ -43,7 +43,7 @@ Meet my own AI, <a title="Emi's repository" href="https://github.com/ErvinGh88/A
 
 <pre align='center'>
 <h3>
-🆔Myself: iam.ervinnn🆔
+🆔Myself: fullydifferent 🆔
 🆔Emi(Support): AI-Emi#1301🆔
 🆔Emi(Bot): AI-Emi#2990🆔
 </h3>
