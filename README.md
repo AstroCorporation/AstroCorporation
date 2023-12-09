@@ -22,13 +22,10 @@ Explore our featured projects to get an insight into the range and quality of ou
 2. [Project Two](#) - Brief description of the project.
 3. [Project Three](#) - Brief description of the project.
 
-## Getting Started
+## Company Founders
 
-If you're interested in working with AstroCorporation or exploring our projects, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/AstroCorporation/repo-name.git`
-2. Install dependencies: `npm install` or `yarn install`
-3. Run the project: `npm start` or `yarn start`
+- [Ervin Ghoreshi](https://github.com/ErvinGh88) 👨🏻‍💻
+- [AmirAli Abbasi](https://github.com/AmirAliAbbasi) 👨🏻‍💻
 
 ## Contact Us
 
