@@ -43,4 +43,4 @@ We look forward to connecting with you and turning your ideas into reality!
 
 ---
 
-**AstroCorporation - Transforming Visions into Web Reality**
+**AstroCorporation - Transforming Visions into Web Reality | &copy; 2023 AstroCorporation. All rights reserved.**
