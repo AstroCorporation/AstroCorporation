@@ -5,6 +5,7 @@ Welcome to AstroCorporation's GitHub repository! We are a dynamic web developmen
 ## About Us
 
 AstroCorporation is a team of passionate web developers dedicated to creating innovative and scalable web solutions. With a focus on client satisfaction and the latest technologies, we aim to exceed expectations in every project we undertake.
+Our team consist of young programmers and we will work for their development!
 
 ## Our Services
 
@@ -18,26 +19,27 @@ AstroCorporation is a team of passionate web developers dedicated to creating in
 
 Explore our featured projects to get an insight into the range and quality of our work:
 
-1. [Project One](#) - Brief description of the project.
-2. [Project Two](#) - Brief description of the project.
-3. [Project Three](#) - Brief description of the project.
+1. [Matrix code rain](https://github.com/ErvinGh88/Matrix-Code-Rain) - By Ervin.
+2. [Discord server bot](https://github.com/AmirAliAbbasi/Persian-Bot) - By Amir.
+3. [Discord server cloner](https://github.com/AmirAliAbbasi/Persian-Cloner) - By Amir.
 
-## Company Founders
+<sub>&copy;these projects are made by members and their rights are reseved
+## Team members</sub>
 
-- [Ervin Ghoreshi](https://github.com/ErvinGh88) 👨🏻‍💻
-- [AmirAli Abbasi](https://github.com/AmirAliAbbasi) 👨🏻‍💻
+- [Ervin Ghoreshi](https://github.com/ErvinGh88) (CEO) (founder) (front-end)
+- [AmirAli Abbasi](https://github.com/AmirAliAbbasi) (founder) (front-end) (designer)
 
 ## Contact Us
 
 For inquiries, collaborations, or any questions, feel free to reach out to us:
 
-- Email: contact@astrocorporation.com
-- Website: [www.astrocorporation.com](https://www.astrocorporation.com)
-- LinkedIn: [AstroCorporation](https://www.linkedin.com/company/astrocorporation)
-- Twitter: [@AstroCorp](https://twitter.com/AstroCorp)
+- Email: contact@astroco.business.com
+- Website: Coming soon...
+- LinkedIn: Comming soon...
+- Discord: Comming soon...
 
 We look forward to connecting with you and turning your ideas into reality!
 
 ---
 
-**AstroCorporation - Transforming Visions into Web Reality | &copy; 2023 AstroCorporation. All rights reserved.**
+**AstroCorporation - Transforming Visions into Web Reality | &copy; 2023 AstroCo. All rights reserved.**
