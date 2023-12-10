@@ -34,11 +34,7 @@ Explore our featured projects to get an insight into the range and quality of ou
 For inquiries, collaborations, or any questions, feel free to reach out to us:
 
 - Email: astroco.business@gmail.com
-- Website: 
-- LinkedIn: 
-- Discord:
-- Instagram: 
-
+- Discord: 
 We look forward to connecting with you and turning your ideas into reality!
 
 ---
