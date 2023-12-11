@@ -44,8 +44,9 @@ As a newly established team, we want to hire professional and young developers.<
 Contact us for more information!
 
 
-Contact us: **contact@astroco.business**
+**Contact us: contact@astroco.business**
 
 ---
-
-**AstroCorporation - Transforming Visions into Web Reality | &copy; 2023 AstroCo. All rights reserved.**
+<section align="center">
+<b>AstroCorporation - Transforming Visions into Web Reality | &copy; 2023 AstroCo. All rights reserved.</b>
+</section>
