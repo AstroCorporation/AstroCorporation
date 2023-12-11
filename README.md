@@ -34,9 +34,17 @@ Explore our featured projects to get an insight into the range and quality of ou
 For inquiries, collaborations, or any questions, feel free to reach out to us:
 
 - Email: astroco.business@gmail.com
-- Discord:
+- Discord: [https://discord.gg/AstroCo](https://discord.gg/VWsXWkFtCZ)
 
 We look forward to connecting with you and turning your ideas into reality!
+
+## Join us!
+
+As a newly established team, we want to hire professional and young developers.<br>
+Contact us for more information!
+
+
+Contact us: **contact@astroco.business**
 
 ---
 
