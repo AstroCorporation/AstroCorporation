@@ -26,14 +26,14 @@ Explore our featured projects to get an insight into the range and quality of ou
 <sub>&copy;these projects are made by members and their rights are reseved
 ## Team members</sub>
 
-- [Ervin Ghoreshi](https://github.com/ErvinGh88) (CEO) (founder) (front-end)
-- [AmirAli Abbasi](https://github.com/AmirAliAbbasi) (founder) (front-end) (designer)
+- [Ervin Ghoreshi](https://github.com/ErvinGh88) (founder) (CEO) (front-end)
+- [AmirAli Abbasi](https://github.com/AmirAliAbbasi) (founder) (designer) (front-end)
 
 ## Contact Us
 
 For inquiries, collaborations, or any questions, feel free to reach out to us:
 
-- Email: astroco.business@gmail.com
+- Email: [astroco.business@gmail.com](https://mail.google.com/mail/u/0/#search/in%3Asent+astroco.business%40gmail.com?compose=jrjtXMmZJSJmqVbtBSJmfXrmWckqVJfGdrWZQNTNlBcdVkxCKDvVvHjvktlwKxtxmkspLXfk)
 - Discord: [https://discord.gg/AstroCo](https://discord.gg/VWsXWkFtCZ)
 
 We look forward to connecting with you and turning your ideas into reality!
