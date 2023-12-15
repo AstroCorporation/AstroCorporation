@@ -44,7 +44,7 @@ As a newly established team, we want to hire professional and young developers.<
 Contact us for more information!
 
 
-**Contact us: [contact@astroco.](astroco.business@gmail.com)**
+**Contact us: [contact@astroco.](https://mail.google.com/mail/u/0/#search/in%3Asent+astroco.business%40gmail.com?compose=jrjtXMmZJSJmqVbtBSJmfXrmWckqVJfGdrWZQNTNlBcdVkxCKDvVvHjvktlwKxtxmkspLXfk)**
 
 ---
 <section align="center">
