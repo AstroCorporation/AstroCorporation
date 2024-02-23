@@ -34,7 +34,7 @@ Explore our featured projects to get an insight into the range and quality of ou
 For inquiries, collaborations, or any questions, feel free to reach out to us:
 
 - Email: [astroco.business@gmail.com](https://mail.google.com/mail/u/0/#search/in%3Asent+astroco.business%40gmail.com?compose=jrjtXMmZJSJmqVbtBSJmfXrmWckqVJfGdrWZQNTNlBcdVkxCKDvVvHjvktlwKxtxmkspLXfk)
-- Discord: [https://discord.gg/AstroCo](https://discord.gg/VWsXWkFtCZ)
+- Discord: comming soon...
 - Instagram: [https://www.instagram.com/astroco.official](https://www.instagram.com/astroco.official?igsh=MmVlMjlkMTBhHmg==)
 
 We look forward to connecting with you and turning your ideas into reality!
