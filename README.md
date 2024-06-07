@@ -19,9 +19,10 @@ Our team consist of young programmers and we will work for their development!
 
 Explore our featured projects to get an insight into the range and quality of our work:
 
-1. [Matrix code rain](https://github.com/ErvinGh88/Matrix-Code-Rain) - By Ervin.
-2. [Discord server bot](https://github.com/AmirAliAbbasi/Persian-Bot) - By Amir.
-3. [Discord server cloner](https://github.com/AmirAliAbbasi/Persian-Cloner) - By Amir.
+1. [Ervin personal website](https://ervinghoreishi.ir/) - By Ervin.
+2. [Matrix code rain](https://github.com/ErvinGh88/Matrix-Code-Rain) - By Ervin.
+3. [Discord server bot](https://github.com/AmirAliAbbasi/Persian-Bot) - By Amir.
+4. [Discord server cloner](https://github.com/AmirAliAbbasi/Persian-Cloner) - By Amir.
 
 <sub>&copy;these projects are made by members and their rights are reseved
 ## Team members</sub>
