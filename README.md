@@ -49,5 +49,5 @@ Contact us for more information!
 
 ---
 <section align="center">
-<b>AstroCorporation - Transforming Visions into Web Reality | &copy; 2023 AstroCo. All rights reserved.</b>
+<b>AstroCorporation - Transforming Visions into Web Reality | &copy; 2024 AstroCo.  •  All rights reserved.</b>
 </section>
