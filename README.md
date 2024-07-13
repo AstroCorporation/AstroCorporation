@@ -1,11 +1,11 @@
-# 👨🏽‍🚀 AstroCorporation - Web Development Company
+# 👨🏽‍🚀 AstroCorporation - Communication Services Development Company
 
 Welcome to AstroCorporation's GitHub repository! We are a dynamic web development company committed to delivering cutting-edge solutions for our clients. This repository serves as a central hub for our projects, showcasing our expertise and the quality of work we provide.
 
 ## About Us
 
-AstroCorporation is a team of passionate web developers dedicated to creating innovative and scalable web solutions. With a focus on client satisfaction and the latest technologies, we aim to exceed expectations in every project we undertake.
-Our team consist of young programmers and we will work for their development!
+AstroCorporation is a team of passionate web developers/social engineering dedicated to creating innovative and scalable web solutions/... . With a focus on client satisfaction and the latest technologies, we aim to exceed expectations in every project we undertake.
+Our team consist of young programmers and engineerins and we will work for their development!
 
 ## Our Services
 
@@ -35,7 +35,7 @@ Explore our featured projects to get an insight into the range and quality of ou
 For inquiries, collaborations, or any questions, feel free to reach out to us:
 
 - Email: [astroco.business@gmail.com](https://mail.google.com/mail/u/0/#search/in%3Asent+astroco.business%40gmail.com?compose=jrjtXMmZJSJmqVbtBSJmfXrmWckqVJfGdrWZQNTNlBcdVkxCKDvVvHjvktlwKxtxmkspLXfk)
-- Discord: comming soon...
+- Discord: JUST FOR MEMBERS
 - Instagram: [https://www.instagram.com/astroco.official](https://www.instagram.com/astroco.official?igsh=MmVlMjlkMTBhHmg==)
 
 We look forward to connecting with you and turning your ideas into reality!
@@ -46,9 +46,9 @@ As a newly established team, we want to hire professional and young developers.<
 Contact us for more information!
 
 
-**Contact us: [contact@astroco.](https://mail.google.com/mail/u/0/#search/in%3Asent+astroco.business%40gmail.com?compose=jrjtXMmZJSJmqVbtBSJmfXrmWckqVJfGdrWZQNTNlBcdVkxCKDvVvHjvktlwKxtxmkspLXfk)**
+**Contact us: [contact@astroco.](mailto:astroco.business@gmail.com)**
 
 ---
 <section align="center">
-<b>AstroCorporation - Transforming Visions into Web Reality | &copy; 2024 AstroCo.  •  All rights reserved.</b>
+<b>AstroCorporation - Transforming Ideas into Reality | &copy; 2024 AstroCo.  •  All rights reserved.</b>
 </section>
