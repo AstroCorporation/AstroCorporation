@@ -14,6 +14,7 @@ Our team consist of young programmers and engineerins and we will work for their
 - **Backend Development**: Building robust and scalable server-side logic for web applications.
 - **Mobile App Development**: Extending our expertise to mobile platforms for a seamless user experience.
 - **E-commerce Solutions**: Developing secure and efficient online shopping platforms.
+- **Long-term Collabration**: We provide your social platforms and start making content in it.
 
 ## Projects
 
@@ -27,8 +28,8 @@ Explore our featured projects to get an insight into the range and quality of ou
 <sub>&copy;these projects are made by members and their rights are reseved
 ## Team members</sub>
 
-- [Ervin Ghoreshi](https://github.com/ErvinGh88) (founder) (CEO) (front-end)
-- [AmirAli Abbasi](https://github.com/AmirAliAbbasi) (founder) (designer) (front-end)
+- [Ervin Ghoreshi](https://github.com/ErvinGh88) (founder) (CEO) (front-end) (Social engineer)
+- [AmirAli Abbasi](https://github.com/AmirAliAbbasi) (founder) (Designer) (front-end)
 
 ## Contact Us
 
