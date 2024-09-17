@@ -24,7 +24,7 @@ Explore our featured projects to get an insight into the range and quality of ou
 2. [Matrix code rain](https://github.com/ErvinGh88/Matrix-Code-Rain) - By Ervin.
 3. [Web template](https://kaveh-sabouri.github.io/Finsweet2/index.html) - By Kaveh
 4. [Discord server bot](https://github.com/AmirAliAbbasi/Persian-Bot) - By Amir.
-5. [Discord server cloner](https://github.com/AmirAliAbbasi/Persian-Cloner) - By Amir.
+5. [Login and register page](https://github.com/AmirAliAbbasi/Login-And-Register-Page) - By Amir.
 
 <sub>&copy;these projects are made by members and their rights are reseved
 ## Team members</sub>
